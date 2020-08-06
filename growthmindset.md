@@ -4,7 +4,7 @@
 - [Growth Mindset Page](growthmindset.md)
 
 # What is Growth Mindset?
-> *Love Challenges. Be intrigued by mistakes. Enjoy effort and keep on learning.* -Carol Dweck 
+> *Love Challenges. Be intrigued by mistakes. Enjoy effort and keep on learning. -Carol Dweck*
 
 A person can learn just about anything with the right patience and determination. The neuroscience confirms the fact that a person's brain is physically wired to connect more neurons as more learning takes place. If a person is learning something (like coding!) for the first time, the connections in the brain fire faster with more repetition. The neurons form bridges that are stronger with each move.  A person can apply the concept of growth mindset to any facet of our lives. The concept of growth mindset should inspire onself to do anything they put their mind to.
 
