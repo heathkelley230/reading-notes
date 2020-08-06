@@ -5,7 +5,8 @@ I've been a k12 Iowa educator for the past 11 years.  Currently I teach 5-8 tech
 
 ## Site Navigation:
 - [Home](README.md)
-- [Growth Mindset Page](growthmindset.md)
+- [Growth Mindset](growthmindset.md)
+- [What is Markdown?](learning_markdown.md)
 
 
 
