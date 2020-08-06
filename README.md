@@ -1,4 +1,5 @@
 [[Home](README.md)] [[Growth Mindset](growthmindset.md)] [[What is Markdown?](learning_markdown.md)]
+![picture of sky](images/sky.png) 
 # Hi. I'm Heath.
 > *"Strive not to be a success, but rather to be of value." - Albert Einstein* 
 
