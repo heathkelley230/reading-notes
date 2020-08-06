@@ -11,9 +11,9 @@ A person can learn just about anything with the right patience and determination
 One of the key aspects of growth mindset is the fact that we learn from our mistakes.  Here is a [video clip](https://www.youtube.com/watch?v=zLYECIjmnQs) that illustrates this idea.  
 
 Here are a few more motivational quotes that help me think about growth mindset:
-- *Anyone who has never made a mistake has never tried anything new.* - Albert Einstein
-- *If you are are absent in the struggle don't expect to be present in the success.* - Will Smith
-- *Do not judge me by my successes, judge me by how many times I feel down and got back up again. -Nelson Mendela
+- *Anyone who has never made a mistake has never tried anything new. - Albert Einstein*
+- *If you are are absent in the struggle don't expect to be present in the success. - Will Smith*
+- *Do not judge me by my successes, judge me by how many times I feel down and got back up again. -Nelson Mendela*
 
 ![Difficult roads lead to difficult destinations quote](https://source.unsplash.com/z1d-LP8sjuI)
 <span>Photo by <a href="https://unsplash.com/@helloimnik?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Hello I'm Nik 🎞</a> on <a href="https://unsplash.com/s/photos/growth-mindset?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
