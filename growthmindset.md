@@ -1,4 +1,4 @@
-## Site Navigation:
+### Site Navigation:
 - [Home](README.md)
 - [Growth Mindset](growthmindset.md)
 - [What is Markdown?](learning_markdown.md)
