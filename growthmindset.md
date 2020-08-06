@@ -1,7 +1,7 @@
-
 ## Site Navigation:
 - [Home](README.md)
-- [Growth Mindset Page](growthmindset.md)
+- [Growth Mindset](growthmindset.md)
+- [What is Markdown?](learning_markdown.md)
 
 # What is Growth Mindset?
 > *Love Challenges. Be intrigued by mistakes. Enjoy effort and keep on learning. -Carol Dweck*
