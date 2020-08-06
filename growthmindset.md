@@ -1,3 +1,8 @@
+
+## Site Navigation:
+- [Home](README.md)
+- [Growth Mindset Page](growthmindset.md)
+
 # What is Growth Mindset?
 > *Love Challenges. Be intrigued by mistakes. Enjoy effort and keep on learning.* -Carol Dweck 
 
