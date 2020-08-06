@@ -1,12 +1,3 @@
 theme: jekyll-theme-minimal
 title: Heath Kelley
 logo: images/profilepicture.png
-
-docs_list_title: Site Navigation
-docs:
-
-- title: Home
-  url: https://heathkelley230.github.io/reading-notes/
-
-- title: Growth Mindset
-  url: https://heathkelley230.github.io/reading-notes/growthmindset.html
