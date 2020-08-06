@@ -11,3 +11,4 @@ Here are a few more motivational quotes that help me think about growth mindset:
 - *Do not judge me by my successes, judge me by how many times I feel down and got back up again. -Nelson Mendela
 
 ![Difficult roads lead to difficult destinations quote](https://source.unsplash.com/z1d-LP8sjuI)
+<span>Photo by <a href="https://unsplash.com/@helloimnik?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Hello I'm Nik 🎞</a> on <a href="https://unsplash.com/s/photos/growth-mindset?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
