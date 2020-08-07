@@ -1,4 +1,4 @@
-[[Home](README.md)] [[Growth Mindset](growthmindset.md)] [[What is Markdown?](learning_markdown.md)]
+[[Home](README.md)] [[Growth Mindset](growthmindset.md)] [[What is Markdown?](learning_markdown.md)] [Coder's Computer(coders_computer.md)]
 
 ![picture of sky](images/sky.png) 
 
