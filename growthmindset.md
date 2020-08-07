@@ -1,4 +1,4 @@
-[[Home](README.md)] [[Growth Mindset](growthmindset.md)] [[What is Markdown?](learning_markdown.md)]
+[[Home](README.md)] [[Growth Mindset](growthmindset.md)] [[What is Markdown?](learning_markdown.md)] [[Coder's Computer](coders_computer.md)]
 
 # What is Growth Mindset?
 > *Love Challenges. Be intrigued by mistakes. Enjoy effort and keep on learning. -Carol Dweck*
