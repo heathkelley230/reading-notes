@@ -13,7 +13,7 @@ The command line is a text-based application that sends commands directly to the
 
 ## Basic Command Line Functions
 Here is a list of some of the basic commands:
-- pwd(print working director): Explains what director the user currently is in
+- pwd (print working director): Explains what director the user currently is in
 - ls (list files): Lists all of the files in the current directory
 - cd (change director): Changes the directory that a user specifies
 - mkdir (make directory): Makes a folder at the specified location
