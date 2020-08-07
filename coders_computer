@@ -1,0 +1,12 @@
+#What is a Text Editor?
+A text editor is a computer program that allows the user to write plain text.  What a person types on the screen is what will show up when published to a web browser.  Most operating systems come standard with a text editor.  For example, Mac OS has a text editor called TextEdit.  While each person may have a preference on which text editor to use, most have the same basic functions.
+
+#Types of Text Editors
+While a text editor is helpful for typing plain text they are not set up to style your document.  Google Docs, Microsoft Word, and pages are examples of popular word processors that allow the user to write and style text.  Still, word processors have limitations in what is possible in regards to structure and style.  Word processors do not allow the user to write code.
+
+Code Editors, on the other hand, allow the users to write coding languages and see the results published within a web browser.  There are many types of code editors.  TextEdit, can be used as a standard text editor.  More sophisticated applications have features such as autocode which will supply suggestion as the programmer types.  Dreamweaver is an example of a code editor for web development that helps the user organize and manage files.  It has various preferences that can be customized such as the abilty to place a live version side-by-side the code (either vertically or horizontally).  Visual Studio Code is another code editor that has many helpful features such as the ability to add extensions and program with a variety of coding languages.   
+
+#What is the Command Line?
+
+#Basic Command Line Functions
+
