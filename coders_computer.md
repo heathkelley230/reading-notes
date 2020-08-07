@@ -1,4 +1,6 @@
 # The Coder's Computer:  Basic Setup for Programming
+![picture of man coding](images/jefferson-santos-9SoCnyQmkzI-unsplash.jpg) 
+<span>Photo by <a href="https://unsplash.com/@jefflssantos?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jefferson Santos</a> on <a href="https://unsplash.com/s/photos/coder?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 ## What is a Text Editor?
 A text editor is a computer program that allows the user to write plain text.  What a person types on the screen is what will show up when published to a web browser.  Most operating systems come standard with a text editor.  For example, Mac OS has a text editor called TextEdit.  While each person may have a preference on which text editor to use, most have the same basic functions.
