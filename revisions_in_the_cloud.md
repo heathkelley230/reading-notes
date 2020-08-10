@@ -1,7 +1,7 @@
 [[Home](README.md)] [[Growth Mindset](growthmindset.md)] [[What is Markdown?](learning_markdown.md)] [[Coder's Computer](coders_computer.md)]
-
 # Using Git to Clone a Repository
-
+![picture of parallel shining lights](images/clone.jpg)
+<span>Photo by <a href="https://unsplash.com/@franckinjapan?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Franck V.</a> on <a href="https://unsplash.com/s/photos/clone?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 ## What is Git?
 Git allows software developers the ability to manage changes in code during project development. Git has many features such as the ability to track changes made locally on a user's computer and save those changes within project repositories in the cloud.  Teams can work on the same project through branching.  When a user wants to submit a change to a project repository, a command is typed or executed in the computer's terminal. The command saves the file(s) in the master branch in the user's Github account.
 
