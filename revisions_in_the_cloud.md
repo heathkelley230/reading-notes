@@ -5,7 +5,7 @@
 ## What is Git?
 Git allows software developers the ability to manage changes in code during project development. Git has many features such as the ability to track changes made locally on a user's computer and save those changes within project repositories in the cloud.  Teams can work on the same project through branching.  When a user wants to submit a change to a project repository, a command is typed or executed in the computer's terminal. The command saves the file(s) in the master branch in the user's Github account.
 
-## What steps do you take to Clone a Repository?
+## What steps do you take to Clone a Repository and Sync Locally?
 1. Open Github and click on the project repository.
 2. Click on the green code button and "copy the Clone with HTTPS" URL.
 3. Open the terminal and type "pwd" to locate where you are at in the terminal.  Navigate to home if necessary by typing "cd ~".  Navigate to the location where you will copy your cloned repository and type in the terminal (e.g., "cd documents").
