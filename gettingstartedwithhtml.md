@@ -8,7 +8,7 @@
 - what the visitors might want to achieve
 - what information visitors need
 2. Next, a site map can be organized using cards to gropu information into sections or pages.
-3. After that, A wireframe (sketch of sections/grids) can be created using a professional application such as Adobe Photoshop or a simple piece of paper.  
+3. After that, A wireframe (sketch of sections/grids) can be created using a professional application such as Adobe Photoshop, [[Balsamiq](https://balsamiq.com/for/web-designers)], [[Draw io](https://app.diagrams.net)] or a simple piece of paper.  
 
 ## Before Structuring the HTML/CSS
 1. Decide on a code editor to use and download any necessary applications (such as VS Code or Adobe Dreamweaver)
@@ -28,5 +28,5 @@ Now you are ready to add the basic structure of the website.
 1. First, make a header tag to define the title of the webpage.  Here you may include an h1 tag for the title.
 2. Next, structure the rest of your webpage using the wireframe that you developed previously as a guide. 
 3. For styling, be sure to give a class or id tag to important grouping such as section, articles, asides, headers, and footers.
-4. Follow HTML semantics by referring to a trusted website for help.  (W3 Schools)[https://www.w3schools.com/] is an example of a website devoted to providing quick reference and tutorials.  Also, utilize help within code editors such as the autocode function.
+4. Follow HTML semantics by referring to a trusted website for help.  (W3 Schools)[https://www.w3schools.com] is an example of a website devoted to providing quick reference and tutorials.  Also, utilize help within code editors such as the autocode function.
 5. Test the webpage using the preview within the code editor application.
