@@ -9,7 +9,7 @@ Git allows software developers the ability to manage changes in code during proj
 1. Open Github and click on the project repository
 2. Click on the green code button and "copy the Clone with HTTPS" URL.
 3. Open the terminal and type "pwd" to locate where you are at in the terminal.  Navigate to home if necessary by typing "cd ~".  Navigate to the location where you will copy your cloned repository and type in the terminal (e.g., "cd documents")
-3. Next, type "git clone [insert copied repo link]".  This makes a copy of the repository in your current location in the terminal.  If you want to clone within a directory/folder, type the name of the chosen folder immediately after the cloned URL (e.g., "git clone https://github.com/test [insert directory name]")
+3. Next, type "git clone [insert copied repo link]".  This makes a copy of the repository in your current location in the terminal.  If you want to clone within a directory/folder, type the name of the chosen folder immediately after the cloned URL (e.g., "git clone (insert github clone repo link) (insert directory name)")
 4. Open Visual Code Studio by typing "code ." and make any changes.  
 6. In the terminal, type "git add [insert filename]".  Note:  You may add all changes of all files by executing the "git add *" command.
 7. If you want to check the status at any time (recommended after each change) type "git status".
