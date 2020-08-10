@@ -1,4 +1,4 @@
-[[Home](README.md)] [[Growth Mindset](growthmindset.md)] [[What is Markdown?](learning_markdown.md)] [[Coder's Computer](coders_computer.md)] [[Revisions in the Cloud](revisions_in_the_cloud.md)]
+[[Home](README.md)] [[Growth Mindset](growthmindset.md)] [[What is Markdown?](learning_markdown.md)] [[Coder's Computer](coders_computer.md)] [[Revisions in the Cloud](revisions_in_the_cloud.md)] [[Getting Started With HTML](gettingstartedwithhtml.md)]
 
 # What is Growth Mindset?
 > *Love Challenges. Be intrigued by mistakes. Enjoy effort and keep on learning. -Carol Dweck*
