@@ -1,4 +1,4 @@
-[[Home](README.md)] [[Growth Mindset](growthmindset.md)] [[What is Markdown?](learning_markdown.md)] [[Coder's Computer](coders_computer.md)] [[Revisions in the Cloud](revisions_in_the_cloud.md)] [[Getting Started With HTML](gettingstartedwithhtml.md)]
+[[Home](README.md)] [[Growth Mindset](growthmindset.md)] [[What is Markdown?](learning_markdown.md)] [[Coder's Computer](coders_computer.md)] [[Revisions in the Cloud](revisions_in_the_cloud.md)] [[Getting Started With HTML](gettingstartedwithhtml.md) [[CSS Beginner Basics](css_basics.md)]
 # Using Git to Clone a Repository
 ![picture of parallel shining lights](images/clone.jpg)
 <span>Photo by <a href="https://unsplash.com/@franckinjapan?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Franck V.</a> on <a href="https://unsplash.com/s/photos/clone?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
