@@ -1,6 +1,6 @@
 [[Home](README.md)] [[Growth Mindset](growthmindset.md)] [[What is Markdown?][[Home](README.md)] [[Growth Mindset](growthmindset.md)] [[What is Markdown?](learning_markdown.md)] [[Coder's Computer](coders_computer.md)] [[Revisions in the Cloud](revisions_in_the_cloud.md)] [[Getting Started With HTML](gettingstartedwithhtml.md) [[CSS Beginner Basics](css_basics.md)] [[Dynamic Web Pages With Javascript](dynamic_webpages_with_javascript.md)]
 # Making Websites Interactive
-![CSS syntax diagram](Images/javascript.svg.png)
+![CSS syntax diagram](Images/javascriptshield.png)
 
 ## What is Javascript? 
 While HTML provides the structure of a page and CSS styles the webpage, Javascript makes the website interactive.  Websites are rarely static anymore and have many interactive content.  Therefore, it is important for front-end web developers to understand HTML, CSS, and Javascript.  
