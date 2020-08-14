@@ -1,6 +1,6 @@
 [[Home](README.md)] [[Growth Mindset](growthmindset.md)] [[What is Markdown?](learning_markdown.md)] [[Coder's Computer](coders_computer.md)] [[Revisions in the Cloud](revisions_in_the_cloud.md)] [[Getting Started With HTML]](gettingstartedwithhtml.md) [[CSS Beginner Basics](css_basics.md)] [[Dynamic Web Pages With Javascript](dynamic_webpages_with_javascript.md)] [[Computer Architecture and Logic](computer_architecture_and_logic.md)] [[Programming with JS](programming_with_javascript.md)]
 
-# Discussion 7 Read Notes 
+# Discussion 7 Reading Notes 
 
 ## Pages 1-24
 ### Examples of Javascript in a Web Browser
@@ -9,7 +9,7 @@
 - Relatding part of a page
 - Filtering data
 
-### What Is A Script and How Do You Create One?
+### What Is a Script and How Do You Create One?
 A script is a series of instructions like a recipe, handbook, or manual.  Scripts are steps that the computer follows, and the scripts can respond to user input.  
 
 Writing a script starts with beginning with the end in mind.  The user should:
