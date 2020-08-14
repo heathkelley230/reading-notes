@@ -26,4 +26,14 @@ Expressions may simply assign a value to a variable (e.g., var height = 6) or pe
 - Assigment Operator: Assigns a value to a variable (e.g., width = 24;) 
 - String Operator: The string operators (+) joins strings together.  Note:  You cannot mix a number and a string together.  If you try to do this, the number simply becomes part of the string.  The process of joining two or more strings together is called **concatenation**.
 
+## Pages 88-94
+### Functions
+A function is a block of code that is meant to perform a specific task.  Here are the basic steps in order to use a function:
+1. First, the function keyword must be used. 
+2. Next, the user must give it a name and then write the statements in curly braces.
+3. Last the statement that performs the task will sit instide curly braces.  
+This process is called **declaring a function**.  Once declared, the user can call the function to perform other tasks by simply naming the function in one line of code.
+
+<hr>
+
 Source: Duckett, J. (2014). JavaScript &amp; jQuery : Interactive front-end web development. Indianapolis, IN: John Wiley &amp; Sons.
