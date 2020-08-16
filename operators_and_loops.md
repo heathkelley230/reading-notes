@@ -19,7 +19,7 @@ Usually a condition will have at least two operands and one comparison operator.
 To compare more than one expression, a person might use a logical operator.  A logical operator returns a boolean value of true or false.  Here is a list of some of the logical operators:
 <br>
 <br>
-![diagram of logical operators](images/logicaloperators.png)
+> ![diagram of logical operators](images/logicaloperators.png)
 
 ## Loops
 When executed, a loop will continue if the conditions are true.  If the loop is stopped with a break or returns false it will end. The three types of loops are for, while, and do while.  Below is a definition of each.  This [website](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration) goes into more detail about these loops.
